@@ -1,6 +1,7 @@
 # Shopify
 
 This is an andriod marketplace app:
+
 IDE: Andiod Studio
 
 - Users can buy or sell any products.
